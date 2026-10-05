@@ -15,7 +15,7 @@ Desplegar i configurar una màquina virtual amb Ubuntu Server aplicant directriu
 3. Actualitzar els repositoris del sistema i instal·lar eines addicionals.
 4. Gestionar el control de versions local amb Git.
 
-![Esquema de connexió SSH i VirtualBox](imatges/virtualbox-ubuntu-schema.png)
+![Esquema de connexió SSH i VirtualBox](/img/Gemini_Generated_Image_f8i7q7f8i7q7f8i7.jpg)
 
 ## Comprovacions
 - [ ] Verificar la connexió de xarxa amb ping.
